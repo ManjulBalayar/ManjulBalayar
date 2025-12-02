@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Manjul 👋</h1>
-<h3 align="center">AI/ML Practitioner • MS-AI @ Iowa State • Builder & Problem Solver</h3>
+<h3 align="center">AI/ML Practitioner • MS-AI @ Iowa State</h3>
 
 <p align="center">
   <a href="https://github.com/manjulbalayar">
@@ -15,28 +15,32 @@
 ## 🔥 About Me
 - 🎓 **Master’s student in Artificial Intelligence @ Iowa State University**  
 - 🤖 Passionate about **Machine Learning, NLP, Deep Learning, and real-world AI systems**  
-- 🛠 I love **building things from scratch** — tools, pipelines, small products, experiments  
+- 🛠 Recently been trying to **build things from scratch** — tools, pipelines, small products, experiments  
 - 📈 Interested in **automation, XAI, efficient ML systems, and data-driven decision making**  
-- 💡 Always exploring new ideas and improving my problem-solving skills  
-- 🥊 Outside tech: boxing, hackathons, and trying new cuisines  
+- 🥊 Outside tech: boxing, soccer, anime, music, and trying new cuisines  
 
 ---
 
-## 🧠 What I'm Working On
-### **📂 ML + AI Experiments**
-- Fine-tuning models (BERT, T5, LLMs)  
-- Building ML evaluation pipelines  
-- Playing with clustering, representation learning, and XAI  
+## 🧠 What I'm Working On/Worked on
+### **🧬 seqSENSER**
+- Real-time nanopore sequencing analysis and visualization pipeline
+- Architected snapshot-based incremental processing to enable efficient real-time analysis of streaming nanopore data without reprocessing previously analyzed files
+- Created real-time interactive Plotly dashboard with multi-barcode visualizations (quality distributions, coverage plots, mapping statistics) and real-time updates
+
+### **📶 TextBench**
+- Benchmarks and compares different NLP approaches for text analysis. Project inspired by my first NLP couse @ ISU (5790).
+- Comparing rule-based techniques (regex tokenization), transformer models (BERT), and LLMs for sentiment analysis, topic classification, and summarization.
+- Check the trade-offs between speed, accuracy, and complexity across these different methods with visualizations.
+
+### **📁 DriveFlow**
+- Auto-renames, organizes, and tags documents  
+- PaddleOCR + Llama 3.1B pipeline, built for 50–100+ client firms  
+- Hardware + SaaS hybrid MVP
 
 ### **🔍 Explainable AI for Source Code**
 - Analyzing neuron activations in code-trained LLMs  
 - Clustering learned concepts  
-- Working on visualization + interpretability tools  
-
-### **🛠 Personal Projects**
-- Tools that automate boring tasks  
-- Simple ML apps for classification, generation, and analysis  
-- Learning projects that teach me something new  
+- Working on visualization + interpretability tools
 
 ---
 
@@ -65,8 +69,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manjulbalayar&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjulbalayar&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ManjulBalayar&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManjulBalayar&layout=compact&theme=tokyonight" height="165" />
 </p>
 
 ---
@@ -83,7 +87,7 @@
 - ✈️ From Nepal → Iowa  
 - 🧐 Curious about how things work under the hood  
 - 🧪 Enjoy experimenting, improving, and building useful tools  
-- 🎯 Goal: become really good at ML systems + applied AI engineering  
+- 🎯 Goal: become really good at ML
 
 ---
 
