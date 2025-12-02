@@ -84,4 +84,6 @@
 
 ## 📫 Connect With Me
 - 💼 LinkedIn: **linkedin.com/in/manjulbalayar**  
-- ✉️ Email: **mbalayar@iastate.edu**  
+- ✉️ Emails:
+  - Personal: **manjulbbalayar@gmail.com**
+  - School: **mbalayar@iastate.edu**  
