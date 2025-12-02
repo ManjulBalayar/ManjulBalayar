@@ -83,7 +83,7 @@
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: **linkedin.com/in/manjulbalayar**  
+- 💼 LinkedIn: **[linkedin.com/in/manjulbalayar](https://www.linkedin.com/in/manjul-balayar-b77b04251/)**  
 - ✉️ Emails:
   - Personal: **manjulbbalayar@gmail.com**
   - School: **mbalayar@iastate.edu**  
