@@ -68,7 +68,6 @@
 ---
 
 ## 🌱 What I’m Learning
-- Model interpretability  
 - Efficient training & optimization  
 - Better engineering practices for AI projects  
 - How to design clean ML pipelines  
