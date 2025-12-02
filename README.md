@@ -67,14 +67,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManjulBalayar&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManjulBalayar&layout=compact&theme=tokyonight" height="165" />
-</p>
-
----
-
 ## 🌱 What I’m Learning
 - Model interpretability  
 - Efficient training & optimization  
