@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Manjul 👋</h1>
-<h3 align="center">AI/ML Practitioner • MS-AI @ Iowa State</h3>
+<h3 align="center">Data Wizard • MS-AI @ Iowa State</h3>
 
 <p align="center">
   <a href="https://github.com/manjulbalayar">
@@ -16,7 +16,7 @@
 - Trying to get 500 ELO on Blitz
 
 ## Connect With Me
-- Website: **[Manjul's Portfolio](https://manjulbalayar.github.io/personal-portfolio/)**
+- Website: **[My Portfolio](https://manjulbalayar.github.io/personal-portfolio/)**
 - LinkedIn: **[linkedin.com/in/manjulbalayar](https://www.linkedin.com/in/manjul-balayar-b77b04251/)**  
 - Emails:
   - Personal: **manjulbbalayar@gmail.com**
