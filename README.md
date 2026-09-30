@@ -10,6 +10,11 @@
   </a>
 </p>
 
+## Currently:
+- Learning **[Desbordante](https://github.com/Desbordante/desbordante-core)** to create a data profiler for generating realistic healthcare data
+- Learning **[BioNeuralNet](https://github.com/UCD-BDLab/BioNeuralNet/tree/main)** for research in AI for Integrative Multi-Omics Analysis of Crop Stress Responses
+- Trying to get 500 ELO on Blitz
+
 ## Connect With Me
 - Website: **[Manjul's Portfolio](https://manjulbalayar.github.io/personal-portfolio/)**
 - LinkedIn: **[linkedin.com/in/manjulbalayar](https://www.linkedin.com/in/manjul-balayar-b77b04251/)**  
